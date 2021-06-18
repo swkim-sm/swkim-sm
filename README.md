@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 <h2 align="center"> 👋 Hi, I’m <b>SEOWON KIM</b> 😉</h2>
 <h3 align="center"> 🌜 Tech Stack 🌛 </h3>
 <p align="center"> Techs that I've used at least once <p>
-<p align="center"> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp </p>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=C%2B%2B&amp;logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=C&amp;logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&amp;logo=javascript&amp;logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white"/></a>&nbsp </p>
