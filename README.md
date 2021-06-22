@@ -23,3 +23,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&amp;logo=javascript&amp;logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white"/></a>&nbsp </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&amp;logoColor=white"/></a>&nbsp 
+  </p>
