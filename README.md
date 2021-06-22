@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white"/></a>&nbsp </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&amp;logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&amp;logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&amp;logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&amp;logoColor=white"/></a>&nbsp 
   </p>
