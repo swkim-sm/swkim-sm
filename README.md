@@ -28,4 +28,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&amp;logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&amp;logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&amp;logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&amp;logoColor=white"/></a>&nbsp 
+  </p>
+ <p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&amp;logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&amp;logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&amp;logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/npm-3DDC84?style=flat-square&logo=AndroidStudio&amp;logoColor=white"/></a>&nbsp 
   </p>
