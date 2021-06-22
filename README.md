@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&amp;logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&amp;logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&amp;logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&amp;logoColor=white"/></a>&nbsp 
   </p>
