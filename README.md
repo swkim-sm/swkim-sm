@@ -34,5 +34,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&amp;logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&amp;logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&amp;logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/GoogleColab-#F9AB00?style=flat-square&logo=Google Colab&amp;logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Google Colab-#F9AB00?style=flat-square&logo=GoogleColab&amp;logoColor=white"/></a>&nbsp 
   </p>
