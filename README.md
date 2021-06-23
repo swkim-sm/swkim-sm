@@ -36,5 +36,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&amp;logoColor=white"/></a>&nbsp 
   </p>
   
-  <div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swkim-sm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</div>
+  <p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swkim-sm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
 
