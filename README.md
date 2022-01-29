@@ -1,49 +1,30 @@
-<!--
-**swkim-sm/swkim-sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2 align="center"> 👋 Hi, I’m <b>SEOWON KIM</b> 😉</h2>
-<h3 align="center"> 🌜 Tech Stack 🌛 </h3>
-<p align="center"> Techs that I've used at least once <p>
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=C%2B%2B&amp;logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=C&amp;logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&amp;logo=javascript&amp;logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white"/></a>&nbsp </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&amp;logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&amp;logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&amp;logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&amp;logoColor=white"/></a>&nbsp 
-  </p>
- 
- 
- <p align="center">
+<h3> 👋 Hello, I’m <b>Seowon Kim (김서원)</b>.
+   <a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswkim-sm&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>  
+</h3>
+<h3> 🛠 Tech Stack </h3>
+  <p>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=C%2B%2B&amp;logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&amp;logo=javascript&amp;logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&amp;logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&amp;logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&amp;logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&amp;logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&amp;logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&amp;logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&amp;logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&amp;logoColor=white"/></a>&nbsp 
-  </p>
-
-<hr>
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswkim-sm&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>                      
-</p>
-<p align="center">  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swkim-sm&layout=compact" />
-</a>
 </p>
 
+<h3> 🎓 Educations & Experiences </h3>
+* Majoring in IT Engineering, Sookmyung.W.Univ / 2017.03 - 2022.02
+* [ICT internship](https://www.ictintern.or.kr/main.do), [GoQba tech](https://www.goqba.com/?lang=ko) / 2020.09 - 2020.12
+* [Boostcamp AI tech](https://boostcamp.connect.or.kr/), [Naver Connect](https://www.connect.or.kr/) / 2021.08 - 2021.12
+* Google Machine Learning Bootcamp, Google / 2021.09 - 2021.12
+
+<h3> 📝 Certifications & Awards </h3>
+- 리눅스마스터 2급 / 2019.04.05
+- 정보처리기사 / 2021.07.10
+- 여대생 창업 아이디어 영상 공모전, 최우수상 / 2020.11
+- 제 18회 임베디드 소프트웨어 경진대회, [최우수상](https://eswcontest.or.kr/bbs/board.php?tbl=award&mode=VIEW&num=382&chr=&category=2020%EB%85%84&findType=&findWord=&sort1=&sort2=&page=1) / 2020.12
+- 추계학술대회 학부생 논문 경진대회, 최우수논문 / 2021.11
