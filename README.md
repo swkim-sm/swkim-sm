@@ -9,6 +9,8 @@
 <a href="mailto:kimseowon98@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimseowon98@gmail.com"/></a>
 </p> -->
 
+<h4> 🌱 I’m currently learning <a href="https://github.com/swkim-sm/MLOps-study.git"> MLOps.</a> </h4>
+
 <h3> 🛠 Tech Stack </h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
