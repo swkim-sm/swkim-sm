@@ -28,9 +28,10 @@
 
 <h3> 🎓 Educations & Experiences </h3>
 - Majoring in IT Engineering, Sookmyung.W.Univ / 2017.03 - 2022.02 <br/>
-- <a href="https://www.ictintern.or.kr/main.do"> ICT internship </a>, <a href="https://www.goqba.com/?lang=ko"> GoQba tech </a> / 2020.09 - 2020.12 <br/>
-- <a href="https://boostcamp.connect.or.kr/"> Boostcamp AI tech </a>, <a href="https://www.connect.or.kr/"> Naver Connect </a> / 2021.08 - 2021.12 <br/>
-- <a href="https://developers-kr.googleblog.com/2021/07/mlbootcamp21.html"> Google Machine Learning Bootcamp </a>, Google / 2021.09 - 2021.12 <br/>
+- <a href="https://www.goqba.com/?lang=ko"> GoQba tech </a> / 2020.09 - 2020.12 <br/>
+- <a href="https://boostcamp.connect.or.kr/"> Boostcamp AI tech </a> <a href="https://www.connect.or.kr/"> (Naver Connect) </a> / 2021.08 - 2021.12 <br/>
+- <a href="https://developers-kr.googleblog.com/2021/07/mlbootcamp21.html"> Google Machine Learning Bootcamp </a> / 2021.09 - 2021.12 <br/>
+- <a href="https://www.kakaoenterprise.com/"> Kakao enterprise </a> / 2022.05 - <br/>
 
 <h3> 📝 Certifications & Awards </h3>
 - 리눅스마스터 2급 / 2019.04.05<br/>
